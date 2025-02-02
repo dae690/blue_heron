@@ -1,4 +1,3 @@
-# blue_heron
 # Extracting Relevant Records from Two Large Colonial Waterbird Datasets
 
 ## Project Overview
