@@ -12,8 +12,5 @@ This project aims to extract and refine historical colonial waterbird (CWB) data
 
 ## Development Approach
 This project follows an **Agile Development** approach, divided into **5 sprints**:
-1. **Sprint 1:** Understanding the client, datasets, and project requirements  
-2. **Sprint 2:** Data extraction and cleaning  
-3. **Sprint 3:** Data validation and transformation  
-4. **Sprint 4:** Initial analysis and visualization  
-5. **Sprint 5:** Final findings and recommendations  
+
+![Project Management Mind Map](https://github.com/user-attachments/assets/a2d16571-3cbe-4f9e-86d7-0f0c718ad803) 
