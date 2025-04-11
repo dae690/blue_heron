@@ -14,3 +14,33 @@ This project aims to extract and refine historical colonial waterbird (CWB) data
 This project follows an **Agile Development** approach, divided into **5 sprints**:
 
 ![Project Management Mind Map](https://github.com/user-attachments/assets/a2d16571-3cbe-4f9e-86d7-0f0c718ad803) 
+
+
+# Atlantic Flyway Colonial Waterbird Project
+
+## 📌 Abstract
+Monitoring colonial waterbirds across the Atlantic Flyway provides critical insight into ecosystem health. This project involved cleaning and standardizing historical survey data, updating species codes, and developing visualizations to support regional conservation planning. (See full abstract in `docs/abstract.md`.)
+
+## 🧩 Project Structure
+- **scripts/**: Python code for cleaning, updating AOU codes, and validation.
+- **data/**: Raw and cleaned datasets, along with reference files.
+- **tableau/**: Dashboards developed for species visualization and trend analysis.
+- **docs/**: Methodology and findings.
+- **utils/**: Optional helper functions for reuse.
+
+## 📊 Dashboard
+Interactive Tableau dashboards showing species distributions, colony trends, and survey metadata.
+
+[🔗 View Tableau Dashboard](https://public.tableau.com/app/profile/...)
+
+## ⚙️ Tools & Libraries
+- Python: pandas, numpy, geopy, seaborn, etc.
+- Tableau Public
+- Ornithology Journal for AOU code reference
+
+## 🚀 Getting Started
+To reproduce the cleaning steps:
+
+```bash
+python scripts/data_cleaning.py
+python scripts/species_code_update.py
