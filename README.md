@@ -36,13 +36,19 @@ Monitoring colonial waterbirds across the Atlantic Flyway provides critical insi
 ---
 
 ## 📊 **Dashboard**  
-Dashboard 1 - Interactive Tableau dashboards showing species distributions, colony trends, and survey metadata.  
+**Dashboard 1** - Atlantic Flyway Avian Population Overview.
+🔗 [**View Tableau Dashboard**](https://public.tableau.com/app/profile/paidigumal.vivek.patil/viz/ColonialWaterbirdsDistribution-puneethsandeep_17476023622860/Final2?publish=yes).
 
-🔗 [**View Tableau Dashboard**](https://public.tableau.com/shared/3JGMDNGKQ?:display_count=n&:origin=viz_share_link)
+**Dashboard 2** - Expanded View of Colony Distribution.
 
-Dashboard 3- Improved Species-Level Colony Visualization and Exploration.
+[**View Tableau Dashboard**](https://public.tableau.com/app/profile/paidigumal.vivek.patil/viz/ColonyDistributionasperpopulationsizeperyear-2-shreya_17476020354550/Dashboard1?publish=yes)
 
-https://public.tableau.com/app/profile/paidigumal.vivek.patil/viz/Dashboardforcoloniesw_r_tspecies_17476018407520/Dashboard3?publish=yes
+
+**Dashboard 2.1-** Improved Species-Level Colony Visualization and Exploration.
+
+[**View Tableau Dashboard**](https://public.tableau.com/app/profile/paidigumal.vivek.patil/viz/Dashboardforcoloniesw_r_tspecies_17476018407520/Dashboard3?publish=yes).
+
+
 
 
 
