@@ -36,9 +36,17 @@ Monitoring colonial waterbirds across the Atlantic Flyway provides critical insi
 ---
 
 ## 📊 **Dashboard**  
-Interactive Tableau dashboards showing species distributions, colony trends, and survey metadata.  
+Dashboard 1 - Interactive Tableau dashboards showing species distributions, colony trends, and survey metadata.  
 
 🔗 [**View Tableau Dashboard**](https://public.tableau.com/shared/3JGMDNGKQ?:display_count=n&:origin=viz_share_link)
+
+Dashboard 3- Improved Species-Level Colony Visualization and Exploration.
+
+https://public.tableau.com/app/profile/paidigumal.vivek.patil/viz/Dashboardforcoloniesw_r_tspecies_17476018407520/Dashboard3?publish=yes
+
+
+
+
 
 ---
 
