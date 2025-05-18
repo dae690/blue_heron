@@ -37,7 +37,7 @@ Monitoring colonial waterbirds across the Atlantic Flyway provides critical insi
 
 ## 📊 **Dashboard**  
 **Dashboard 1** - Atlantic Flyway Avian Population Overview.
-🔗 [**View Tableau Dashboard**](https://public.tableau.com/app/profile/paidigumal.vivek.patil/viz/ColonialWaterbirdsDistribution-puneethsandeep_17476023622860/Final2?publish=yes).
+[**View Tableau Dashboard**](https://public.tableau.com/app/profile/paidigumal.vivek.patil/viz/ColonialWaterbirdsDistribution-puneethsandeep_17476023622860/Final2?publish=yes).
 
 **Dashboard 2** - Expanded View of Colony Distribution.
 
